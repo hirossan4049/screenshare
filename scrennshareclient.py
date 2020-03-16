@@ -84,8 +84,8 @@ class MainWindow(BoxLayout):
 
     def connect_to_server(self):
         Logger.info("connect_to_server")
-        # reactor.connectTCP('127.0.0.1', 8000, EchoClientFactory(self))
-        reactor.connectTCP('192.168.11.33', 8000, EchoClientFactory(self))
+        reactor.connectTCP('127.0.0.1', 8000, EchoClientFactory(self))
+        # reactor.connectTCP('192.168.11.33', 8000, EchoClientFactory(self))
         # reactor.connectTCP('10.12.100.246', 8000, EchoClientFactorySecond(self))
         # reactor.connectTCP('192.168.11.28', 8000, EchoClientFactory(self))
 
