@@ -1,14 +1,7 @@
-# ScreenShare(α版)
-### ※未完成です。ほぼ動きません。
-### ほぼ無駄コードです。いつか使えそうなのでとっておきます。完成したら違うリポジトリできれいな状態で上げます。
-## ナニコレ
-いつか書く予定。
+# ScreenShare(Closed)
 
-## 動作確認
-~~`screenshareserver.py`を起動してから、`screenshareclient.py`を起動するとテストができます多分。~~
-~~* IP系は自分で変えてください。~~
+goto Schreen repo.
+https://github.com/hirossan4049/Schreen
 
-`/pickleuse/cv2testcamera.py`を立ち上げて、ログに出てくるリンクを踏むと確認できます。
-
-## MEMO
-DASH使ってるつもり。
+このリポジトリは、Schreenの開発過程のファイルたちがコミットされています。
+動きはしないですが、いつか使えそうなので残しておきます。
